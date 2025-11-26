@@ -41,3 +41,34 @@ npm start
 ```
 
 4. Open your browser and navigate to
+5. http://localhost:3000
+
+6. ## 📖 How to Use
+
+1. **Enter Your Salary**: Input your monthly salary in the top field
+2. **Set Allocations**: Adjust savings and fun money percentages using the sliders
+3. **Add Expenses**: Enter expense names and amounts (rent, utilities, groceries, etc.)
+4. **Track Budget**: View your remaining balance in real-time
+
+## 🛠️ Technologies Used
+
+- **Frontend**: React (via CDN), Tailwind CSS
+- **Backend**: Node.js, Express
+- **Icons**: Lucide React
+
+## 📝 License
+
+This project is licensed under the MIT License.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## 👤 Author
+
+Your Name
+- GitHub: [@yourusername](https://github.com/yourusername)
+
+## ⭐ Show your support
+
+Give a ⭐️ if this project helped you!
