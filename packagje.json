@@ -1,0 +1,16 @@
+{
+  "name": "salary-expense-tracker",
+  "version": "1.0.0",
+  "description": "A modern web app to track salary, expenses, savings, and fun money",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["finance", "budget", "expense-tracker", "salary"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
